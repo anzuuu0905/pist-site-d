@@ -616,6 +616,7 @@ ul { list-style: none; }
   color: var(--white);
   margin-bottom: 48px;
   line-height: 1.05;
+  white-space: nowrap;
 }
 .access-list { display: flex; flex-direction: column; gap: 0; }
 .access-row {
